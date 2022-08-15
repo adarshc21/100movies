@@ -1,3 +1,14 @@
+# 100movies
+This is movies searching application where you can find details of any movie.
+![adhk 1](https://user-images.githubusercontent.com/71165927/184587126-8939f12c-616c-4b4c-a993-283f4de3246e.png)
+
+## Technologies use
+  - react
+  - styled components
+  - omdb api
+
+live link 👉 https://100movies.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
