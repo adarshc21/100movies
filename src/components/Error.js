@@ -21,6 +21,7 @@ const SError = styled.div`
   align-items: center;
   gap: 20px;
   overflow: hidden;
+  color: ${ ({theme}) => theme.textColor };
   *{
     font-size: 100px;
   }
@@ -29,7 +30,6 @@ const SError = styled.div`
   }
   button{
     padding: 10px 40px;
-    color: ${ ({theme}) => theme.textColor };
     background: transparent;
     border: ${ ({theme}) => theme.border };
     border-radius: 5px;
